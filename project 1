@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>replit</title>
+	<div></div>
+</head>
+	<style>
+    *{
+        box-sizing: 50px,border-box;
+        }
+		body {
+			position: fixed;
+			font-family: helvetica;
+			comic-small;
+			font-size: 12px;
+		}
+     #poster{
+            background-color: #b9af94;
+            width: 500px;
+            height: calc(500px / 18 * 24);
+            padding: 20px;
+    }
+    .text{
+            display: column;
+            width: 25%;
+            text-align: left;
+    }
+    .div {
+    border: 10px solid #c3c3c3;
+    display: flex;
+    flex-direction: row;
+    }
+    div {
+    display: flex;
+    flex-direction: row; 
+    }
+    .box {
+    inline-size: 500px;
+    overflow-wrap: break-paragraph;
+    hyphens: manual;
+    }    
+    
+	</style>
+  <body>  
+  <div class="box">
+	 <div id="poster">
+    <div class="container">
+		<h1>45 grave with social distortion christian death</h1>
+
+		<h5>tuesday august 18 1981 no age limit</h5>
+
+		<h5>at the whisky 8901 west sunset blvd. hollywood,ca
+		</h5>
+    </div>
+    </div>
+    </div>
+  
+
+</body>
+</html>
